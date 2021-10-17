@@ -1,0 +1,1 @@
+Перед установкой в Confluence Cloud в `src/main/resources/application.yml` изменить `addon.base-url`.

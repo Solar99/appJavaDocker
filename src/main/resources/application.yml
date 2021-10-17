@@ -1,0 +1,14 @@
+logging.level.com.atlassian.connect.spring: DEBUG
+
+spring.thymeleaf.cache: false
+
+spring.jpa.hibernate.ddl-auto: update
+spring.jpa.database-platform: org.hibernate.dialect.PostgreSQLDialect
+
+spring.datasource.url: jdbc:postgresql://localhost:5432/dzagorovsky
+
+addon.base-url:
+# localhost:8080/thymeleaf
+
+
+#https://dzagorovsky2.eu.ngrok.io
